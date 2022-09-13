@@ -9,7 +9,7 @@
 <br/>
 
 
-Hi, I'm Tanay Oak, a passionate Data Scientist practitioner and a Full-Stack Developer from India ![image](https://user-images.githubusercontent.com/88525549/189886215-cd55222b-ced1-437c-80d0-5af7737636a0.png)
+Hi, I'm Tanay Oak, a passionate Data Scientist practitioner and a Full-Stack Developer from India 🇮🇳
  
 
 
