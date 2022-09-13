@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/tanay-oak/">
   <img align="left" alt="Tanay Oak | LinkedIn"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<br/>
 
 
 Hi, I'm Tanay Oak, a passionate Data Scientist practitioner and a Full-Stack Developer from India 🇮🇳 
