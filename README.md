@@ -6,9 +6,11 @@
   <img align="left" alt="Tanay Oak | LinkedIn"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br/>
+<br/>
 
 
-Hi, I'm Tanay Oak, a passionate Data Scientist practitioner and a Full-Stack Developer from India 🇮🇳 
+Hi, I'm Tanay Oak, a passionate Data Scientist practitioner and a Full-Stack Developer from India ![image](https://user-images.githubusercontent.com/88525549/189886215-cd55222b-ced1-437c-80d0-5af7737636a0.png)
+ 
 
 
 
