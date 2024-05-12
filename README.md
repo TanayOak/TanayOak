@@ -3,7 +3,7 @@
 
 
 <a href="https://www.linkedin.com/in/tanay-oak/">
-  <img align="left" alt="Tanay Oak | LinkedIn"  width="22px" src="https://icons8.com/icon/X8g2OZMx4ET5/linkedin" />
+  <img align="left" alt="Tanay Oak | LinkedIn"  width="22px" src="https://icons8.com/icon/X8g2OZMx4ET5/linkedin.svg" />
 </a>
 <br/>
 <br/>
