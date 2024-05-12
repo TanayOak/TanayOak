@@ -2,11 +2,7 @@
 
 
 
-#<a href="https://www.linkedin.com/in/tanay-oak/">
-#<img align="left" alt="Tanay Oak | LinkedIn"  width="22px" src="" />
-#</a>
-<br/>
-<br/>
+
 
 
 Hi, I'm Tanay Oak, a passionate Data Scientist practitioner and a Full-Stack Developer from India 🙏
