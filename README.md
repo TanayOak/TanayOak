@@ -3,7 +3,7 @@
 
 
 #<a href="https://www.linkedin.com/in/tanay-oak/">
-#  <img align="left" alt="Tanay Oak | LinkedIn"  width="22px" src="" />
+#<img align="left" alt="Tanay Oak | LinkedIn"  width="22px" src="" />
 #</a>
 <br/>
 <br/>
